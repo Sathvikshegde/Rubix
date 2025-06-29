@@ -1,0 +1,2 @@
+# Rubix
+Rubix cube solving
